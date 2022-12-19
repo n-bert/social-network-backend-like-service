@@ -1,0 +1,2 @@
+TRUNCATE TABLE post_likes CASCADE;
+
